@@ -29,3 +29,4 @@ OK, I'm done
 working feature 3
 done feature 4
 done feature 5
+done feature 6
