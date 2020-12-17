@@ -30,3 +30,4 @@ working feature 3
 done feature 4
 done feature 5
 done feature 6
+done feature 7
